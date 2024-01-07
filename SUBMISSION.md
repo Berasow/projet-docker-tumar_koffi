@@ -8,4 +8,5 @@ Dans un premier temps, il est nécessaire de créer les images, pour cela, place
 Ensuite, il faut déployer les conteneurs en utilisant les images qui viennent d'être créées. Cela va également créer les configurations, les volumes et les networks nécessaires au bon déploiement de l'application.\
 Pour cela, tapez la commande suivante : 
 ```docker compose up```
+
 Vous pouvez désormais utiliser l'application 
